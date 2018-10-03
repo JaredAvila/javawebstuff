@@ -1,0 +1,6 @@
+INDEX VERSION 1.4+C:\Users\thesa\Documents\workspace-spring-tool-suite-4-4.0.0.RELEASE\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+699516930.index
+3354737096.index
+3885837735.index
+428621172.index
+3124161147.index
